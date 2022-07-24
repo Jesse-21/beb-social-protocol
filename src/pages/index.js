@@ -23,6 +23,13 @@ function HomepageHeader() {
           </Link>
           <Link
             className="button button--secondary button--lg"
+            to="https://sdk.beb.xyz"
+            style={{ marginLeft: "1rem" }}
+          >
+            SDK
+          </Link>
+          <Link
+            className="button button--secondary button--lg"
             to="https://beb.xyz"
             style={{ marginLeft: "1rem" }}
           >
