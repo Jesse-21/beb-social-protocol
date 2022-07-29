@@ -2,15 +2,15 @@
 sidebar_position: 3
 ---
 
-# The BΞB Community Protocol
+# The BEB Community Protocol
 
-Once BΞB NFT Communities are operational are functional inside our first client ([beb.xyz](https://beb.xyz)), we want to decentralize community operations in a permissionless fashion through the BΞB Community Protocol. The core elements of the BΞB Community Protocol is the Indexer.
+Once BEB NFT Communities are operational are functional inside our first client ([beb.xyz](https://beb.xyz)), we want to decentralize community operations in a permissionless fashion through the BEB Community Protocol. The core elements of the BEB Community Protocol is the Indexer.
 
-## The BΞB Indexer
+## The BEB Indexer
 
-The BΞB Indexer (Off-chain) is responsible for the indexing of roles and community members, providing BΞB clients data interfaces to query the data necessary to function. It interacts with decentralized block indexers such as the Graph or a hosted node to query the data necessary to arbitrage community roles, permissions, and members depending on a set of rules.
+The BEB Indexer (Off-chain) is responsible for the indexing of roles and community members, providing BEB clients data interfaces to query the data necessary to function. It interacts with decentralized block indexers such as the Graph or a hosted node to query the data necessary to arbitrage community roles, permissions, and members depending on a set of rules.
 
-The BΞB indexer is self-hostable and compatible with different node providers.
+The BEB indexer is self-hostable and compatible with different node providers.
 
 ```js
 /** The following API methods are initially available */

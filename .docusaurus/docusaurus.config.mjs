@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "BΞB Protocol",
-  "tagline": "The BΞB Social Protocol is a work in progress.",
+  "title": "BEB Protocol",
+  "tagline": "The BEB Social Protocol is a work in progress.",
   "url": "https://docs.beb.xyz",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
@@ -26,7 +26,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/robertgawdzik/src/protocol/sidebars.js",
+          "sidebarPath": "/Users/robert/src/opensource/protocol/sidebars.js",
           "editUrl": "https://github.com/bebdotxyz/protocol"
         },
         "blog": {
@@ -34,14 +34,14 @@ export default {
           "editUrl": "https://github.com/bebdotxyz/protocol"
         },
         "theme": {
-          "customCss": "/Users/robertgawdzik/src/protocol/src/css/custom.css"
+          "customCss": "/Users/robert/src/opensource/protocol/src/css/custom.css"
         }
       }
     ]
   ],
   "themeConfig": {
     "navbar": {
-      "title": "BΞB",
+      "title": "BEB",
       "logo": {
         "alt": "Logo",
         "src": "img/logo.png"
@@ -77,7 +77,7 @@ export default {
           "title": "Social",
           "items": [
             {
-              "label": "BΞB Social",
+              "label": "BEB Social",
               "href": "https://beb.xyz"
             },
             {

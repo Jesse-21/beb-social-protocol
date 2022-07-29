@@ -6,8 +6,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "BΞB Protocol",
-  tagline: "The BΞB Social Protocol is a work in progress.",
+  title: "BEB Protocol",
+  tagline: "The BEB Social Protocol is a work in progress.",
   url: "https://docs.beb.xyz",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -56,7 +56,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "BΞB",
+        title: "BEB",
         logo: {
           alt: "Logo",
           src: "img/logo.png",
@@ -91,7 +91,7 @@ const config = {
             title: "Social",
             items: [
               {
-                label: "BΞB Social",
+                label: "BEB Social",
                 href: "https://beb.xyz",
               },
               {

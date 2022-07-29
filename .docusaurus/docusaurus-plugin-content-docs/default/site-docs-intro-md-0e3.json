@@ -2,7 +2,7 @@
   "unversionedId": "intro",
   "id": "intro",
   "title": "Introduction",
-  "description": "BΞB is a web3 protocol for NFT communities capable of supporting different social applications such as chat rooms, social networks, forum boards, creators-fan groups, DAO toolings, etc.",
+  "description": "BEB is a web3 protocol for NFT communities capable of supporting different social applications such as chat rooms, social networks, forum boards, creators-fan groups, DAO toolings, etc.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "The BΞB NFT Community (NFTC)",
+    "title": "The BEB NFT Community (NFTC)",
     "permalink": "/docs/nft"
   }
 }
