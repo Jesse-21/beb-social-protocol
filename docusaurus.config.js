@@ -110,7 +110,7 @@ const config = {
         { name: "twitter:card", content: "summary_large_image" },
         {
           name: "twitter:image",
-          content: "https://mint.beb.xyz/og-image800x419.jpeg",
+          content: "https://beb.domains/og-image800x419.jpeg",
         },
       ],
 

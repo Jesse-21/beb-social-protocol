@@ -99,7 +99,7 @@ export default {
       },
       {
         "name": "twitter:image",
-        "content": "https://mint.beb.xyz/og-image800x419.jpeg"
+        "content": "https://beb.domains/og-image800x419.jpeg"
       }
     ],
     "prism": {
