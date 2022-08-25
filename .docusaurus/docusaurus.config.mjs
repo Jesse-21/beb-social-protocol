@@ -5,7 +5,7 @@
  */
 export default {
   "title": "BEB Protocol",
-  "tagline": "The BEB Social Protocol is a work in progress.",
+  "tagline": "The BEB NFT Domain Protocol allows developers to build on top of community domains.",
   "url": "https://docs.beb.xyz",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
