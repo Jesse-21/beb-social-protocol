@@ -5,7 +5,7 @@
  */
 export default {
   "title": "BEB Protocol",
-  "tagline": "The BEB NFT Domain Protocol allows developers to build on top of community domains.",
+  "tagline": "The BEB Domain Protocol allows developers to build on top of community domains.",
   "url": "https://docs.beb.xyz",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
@@ -77,8 +77,12 @@ export default {
           "title": "Social",
           "items": [
             {
-              "label": "BEB Social",
+              "label": "BEB Domains",
               "href": "https://beb.xyz"
+            },
+            {
+              "label": "Register a BEB Domain",
+              "href": "https://beb.domains"
             },
             {
               "label": "Twitter",
