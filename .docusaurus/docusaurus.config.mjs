@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "BEB Protocol",
-  "tagline": "The BEB Domain Protocol allows developers to build on top of community domains.",
+  "title": "BEBverse Protocol",
+  "tagline": "The BEBverse Protocol allows developers to build on top of community domains.",
   "url": "https://docs.beb.xyz",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
@@ -77,11 +77,11 @@ export default {
           "title": "Social",
           "items": [
             {
-              "label": "BEB Domains",
+              "label": "BEBverse",
               "href": "https://beb.xyz"
             },
             {
-              "label": "Register a BEB Domain",
+              "label": "Register a BEBverse Domain",
               "href": "https://beb.domains"
             },
             {
