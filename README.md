@@ -10,4 +10,4 @@ To develop locally, run `yarn start`.
 
 👩‍💻 Participate in the [BEB community](https://beb.xyz)
 
-🐦 Follow [@bebdotxyz](https://twitter.com/bebdotxyz) on Twitter
+🐦 Follow [@bebverse](https://twitter.com/bebverse) on Twitter
