@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "BEB",
+        title: "BEBverse",
         logo: {
           alt: "Logo",
           src: "img/logo.png",

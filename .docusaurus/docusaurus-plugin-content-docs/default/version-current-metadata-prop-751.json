@@ -56,7 +56,7 @@
     "intro": {
       "id": "intro",
       "title": "Introduction",
-      "description": "BEB is a web3 protocol for NFT communities capable of supporting different social applications such as chat rooms, social networks, forum boards, creators-fan groups, DAO toolings, etc.",
+      "description": "BEB is a web3 protocol for metaverse communities capable of supporting different social applications such as chat rooms, social networks, forum boards, creators-fan groups, DAO toolings, etc.",
       "sidebar": "tutorialSidebar"
     },
     "nft": {
@@ -68,7 +68,7 @@
     "protocol": {
       "id": "protocol",
       "title": "The BEB Community Protocol",
-      "description": "Once BEB NFT Communities are operational are functional inside our first client (beb.xyz), we want to decentralize community operations in a permissionless fashion through the BEB Community Protocol. The core elements of the BEB Community Protocol is the Indexer.",
+      "description": "We want to decentralize community operations in a permissionless fashion through the BEB Community Protocol. The core elements of the BEB Community Protocol is the Indexer.",
       "sidebar": "tutorialSidebar"
     }
   }

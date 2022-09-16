@@ -33,7 +33,7 @@ function HomepageHeader() {
             to="https://beb.xyz"
             style={{ marginLeft: "1rem" }}
           >
-            Go to BΞB
+            Go to BEBverse
           </Link>
         </div>
       </div>
@@ -46,12 +46,12 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="We're a web3 protocol for NFT communities."
+      description="We're the first web3 social protocol for metaverse communities."
     >
       <HomepageHeader />
       <main>
         <HomepageFeatures />
-        <img src="img/screenshot.png" alt="beb.xyz client" />
+        <img src="/img/6LbmbnX.jpg" alt="beb.xyz client" />
       </main>
     </Layout>
   );

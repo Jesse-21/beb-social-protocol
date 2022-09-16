@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # The BEB Community Protocol
 
-Once BEB NFT Communities are operational are functional inside our first client ([beb.xyz](https://beb.xyz)), we want to decentralize community operations in a permissionless fashion through the BEB Community Protocol. The core elements of the BEB Community Protocol is the Indexer.
+We want to decentralize community operations in a permissionless fashion through the BEB Community Protocol. The core elements of the BEB Community Protocol is the Indexer.
 
 ## The BEB Indexer
 

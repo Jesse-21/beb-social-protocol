@@ -41,7 +41,7 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "BEB",
+      "title": "BEBverse",
       "logo": {
         "alt": "Logo",
         "src": "img/logo.png"

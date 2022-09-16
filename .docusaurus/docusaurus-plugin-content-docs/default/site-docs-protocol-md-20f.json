@@ -2,7 +2,7 @@
   "unversionedId": "protocol",
   "id": "protocol",
   "title": "The BEB Community Protocol",
-  "description": "Once BEB NFT Communities are operational are functional inside our first client (beb.xyz), we want to decentralize community operations in a permissionless fashion through the BEB Community Protocol. The core elements of the BEB Community Protocol is the Indexer.",
+  "description": "We want to decentralize community operations in a permissionless fashion through the BEB Community Protocol. The core elements of the BEB Community Protocol is the Indexer.",
   "source": "@site/docs/protocol.md",
   "sourceDirName": ".",
   "slug": "/protocol",
