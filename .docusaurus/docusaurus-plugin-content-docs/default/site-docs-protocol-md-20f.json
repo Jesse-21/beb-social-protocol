@@ -1,8 +1,8 @@
 {
   "unversionedId": "protocol",
   "id": "protocol",
-  "title": "The BEB Community Protocol",
-  "description": "We want to decentralize community operations in a permissionless fashion through the BEB Community Protocol. The core elements of the BEB Community Protocol is the Indexer.",
+  "title": "The BEBverse Protocol",
+  "description": "We want to decentralize community operations in a permissionless fashion through the BEBverse Protocol. The core elements of the BEBverse Protocol is the Indexer.",
   "source": "@site/docs/protocol.md",
   "sourceDirName": ".",
   "slug": "/protocol",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "The BEB NFT Community (NFTC)",
+    "title": "The BEBverse Domain",
     "permalink": "/docs/nft"
   },
   "next": {

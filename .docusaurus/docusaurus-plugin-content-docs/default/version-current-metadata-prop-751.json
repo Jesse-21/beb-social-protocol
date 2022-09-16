@@ -16,13 +16,13 @@
       },
       {
         "type": "link",
-        "label": "The BEB NFT Community (NFTC)",
+        "label": "The BEBverse Domain",
         "href": "/docs/nft",
         "docId": "nft"
       },
       {
         "type": "link",
-        "label": "The BEB Community Protocol",
+        "label": "The BEBverse Protocol",
         "href": "/docs/protocol",
         "docId": "protocol"
       },
@@ -56,19 +56,19 @@
     "intro": {
       "id": "intro",
       "title": "Introduction",
-      "description": "BEB is a web3 protocol for metaverse communities capable of supporting different social applications such as chat rooms, social networks, forum boards, creators-fan groups, DAO toolings, etc.",
+      "description": "BEBverse is a web3 protocol for metaverse communities capable of supporting different social applications such as metaverse land, chat rooms, social networks, forum boards, creators-fan groups, DAO toolings, etc.",
       "sidebar": "tutorialSidebar"
     },
     "nft": {
       "id": "nft",
-      "title": "The BEB NFT Community (NFTC)",
-      "description": "The BEB Indestructible Community is of the ERC-721 standard, in order to define an interface that is sufficient for an NFT Community (NFTC). A simplified interface is available as follow.",
+      "title": "The BEBverse Domain",
+      "description": "The BEBverse Domain is of the ERC-721 standard, in order to define an interface that is sufficient for a Domain. A simplified interface is available as follows.",
       "sidebar": "tutorialSidebar"
     },
     "protocol": {
       "id": "protocol",
-      "title": "The BEB Community Protocol",
-      "description": "We want to decentralize community operations in a permissionless fashion through the BEB Community Protocol. The core elements of the BEB Community Protocol is the Indexer.",
+      "title": "The BEBverse Protocol",
+      "description": "We want to decentralize community operations in a permissionless fashion through the BEBverse Protocol. The core elements of the BEBverse Protocol is the Indexer.",
       "sidebar": "tutorialSidebar"
     }
   }

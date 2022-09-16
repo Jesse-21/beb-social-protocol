@@ -2,15 +2,15 @@
 sidebar_position: 3
 ---
 
-# The BEB Community Protocol
+# The BEBverse Protocol
 
-We want to decentralize community operations in a permissionless fashion through the BEB Community Protocol. The core elements of the BEB Community Protocol is the Indexer.
+We want to decentralize community operations in a permissionless fashion through the BEBverse Protocol. The core elements of the BEBverse Protocol is the Indexer.
 
-## The BEB Indexer
+## The BEBverse Indexer
 
-The BEB Indexer (Off-chain) is responsible for the indexing of roles and community members, providing BEB clients data interfaces to query the data necessary to function. It interacts with decentralized block indexers such as the Graph or a hosted node to query the data necessary to arbitrage community roles, permissions, and members depending on a set of rules.
+The BEBverse Indexer (Off-chain) is responsible for the indexing of roles and community members, providing BEBverse clients data interfaces to query the data necessary to function. It interacts with decentralized block indexers such as the Graph or a hosted node to query the data necessary to arbitrage community roles, permissions, and members depending on a set of rules.
 
-The BEB indexer is self-hostable and compatible with different node providers.
+The BEBverse indexer is self-hostable and compatible with different node providers.
 
 ```js
 /** The following API methods are initially available */

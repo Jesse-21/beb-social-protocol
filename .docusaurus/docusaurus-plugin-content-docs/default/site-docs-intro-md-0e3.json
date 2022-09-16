@@ -2,7 +2,7 @@
   "unversionedId": "intro",
   "id": "intro",
   "title": "Introduction",
-  "description": "BEB is a web3 protocol for metaverse communities capable of supporting different social applications such as chat rooms, social networks, forum boards, creators-fan groups, DAO toolings, etc.",
+  "description": "BEBverse is a web3 protocol for metaverse communities capable of supporting different social applications such as metaverse land, chat rooms, social networks, forum boards, creators-fan groups, DAO toolings, etc.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "The BEB NFT Community (NFTC)",
+    "title": "The BEBverse Domain",
     "permalink": "/docs/nft"
   }
 }

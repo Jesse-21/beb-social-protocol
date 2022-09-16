@@ -2,13 +2,13 @@
 sidebar_position: 2
 ---
 
-# The BEB NFT Community (NFTC)
+# The BEBverse Domain
 
-The BEB Indestructible Community is of the [ERC-721 standard](https://eips.ethereum.org/EIPS/eip-721), in order to define an interface that is sufficient for an NFT Community (**NFTC**). A simplified interface is available as follow.
+The BEBverse Domain is of the [ERC-721 standard](https://eips.ethereum.org/EIPS/eip-721), in order to define an interface that is sufficient for a Domain. A simplified interface is available as follows.
 
 ```js
-/* Define an interface for a BEB Indestructible Community */
-interface IBebIndestructibleCommunity extends ERC721, BebNameRegistrar, Ownable {
+/* Define an interface for a BEBverse Domain */
+interface IBebDomain extends ERC721, BebNameRegistrar, Ownable {
   /** Register a controller to the registrar. */
   /**@require caller to be the owner of the contract. */
   function addController(address controller) external onlyOwner
@@ -47,10 +47,10 @@ For initial registration and for renewals, users will need to interact with a co
 
 Initially, a single controller is implemented, the `BebGenesisController`. The ability to add and remove controllers is crucial in implementing future upgrades and controller contracts. The BEB DAO will eventually vote on controller-related changes.
 
-## BEB Names
+## BEBverse Names
 
-Registration of human-readable community names is a critical feature of the BEB Community Protocol, making NFTCs have an optional BEB Name, accessible by a BEB client through `[name].client.xyz` or `[name].beb`. If a BEB NFTC does not have a name, it is `client.xyz/[contractAddress]/[tokenId]` by default. Note that a BEB Name is blockchain agnostic, the communities aren't branded by a specific chain protocol, rather the BEB protocol itself.
+Registration of human-readable community names is a critical feature of the BEBverse Protocol, making domains have a required BEB Name, accessible by a BEBverse client through `[name].client.xyz` or `[name].beb`. Note that a BEBverse Domain is blockchain agnostic, the communities aren't branded by a specific chain protocol, rather the BEBverse protocol itself.
 
-## BEB Name Leasing
+## BEBverse Name Leasing
 
-To discourage community squatting, we design BEB NFTC Names to be leasable, which means they are controlled by the BEB Registrar. Shorter names will have a higher name mint and yearly renewal. Price is computed by an oracle, with a rate to mint, and a rate per year to lease.
+To discourage community squatting, we designed BEBverse Domains to be leasable, which means they are controlled by the BEBverse Registrar. Shorter names will have a higher name mint and yearly renewal. Price is computed by an oracle, with a rate to mint, and a rate per year to lease.
