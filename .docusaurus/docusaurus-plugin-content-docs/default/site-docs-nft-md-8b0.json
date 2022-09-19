@@ -1,8 +1,8 @@
 {
   "unversionedId": "nft",
   "id": "nft",
-  "title": "The BEBverse Domain",
-  "description": "The BEBverse Domain is of the ERC-721 standard, in order to define an interface that is sufficient for a Domain. A simplified interface is available as follows.",
+  "title": "The BEBverse Dimension",
+  "description": "The BEBverse Dimension is of the ERC-721 standard, in order to define an interface that is sufficient for a Domain. A simplified interface is available as follows.",
   "source": "@site/docs/nft.md",
   "sourceDirName": ".",
   "slug": "/nft",

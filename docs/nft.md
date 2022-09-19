@@ -2,12 +2,12 @@
 sidebar_position: 2
 ---
 
-# The BEBverse Domain
+# The BEBverse Dimension
 
-The BEBverse Domain is of the [ERC-721 standard](https://eips.ethereum.org/EIPS/eip-721), in order to define an interface that is sufficient for a Domain. A simplified interface is available as follows.
+The BEBverse Dimension is of the [ERC-721 standard](https://eips.ethereum.org/EIPS/eip-721), in order to define an interface that is sufficient for a Domain. A simplified interface is available as follows.
 
 ```js
-/* Define an interface for a BEBverse Domain */
+/* Define an interface for a BEBverse Dimension */
 interface IBebDomain extends ERC721, BebNameRegistrar, Ownable {
   /** Register a controller to the registrar. */
   /**@require caller to be the owner of the contract. */
@@ -49,8 +49,8 @@ Initially, a single controller is implemented, the `BebGenesisController`. The a
 
 ## BEBverse Names
 
-Registration of human-readable community names is a critical feature of the BEBverse Protocol, making domains have a required BEB Name, accessible by a BEBverse client through `[name].client.xyz` or `[name].beb`. Note that a BEBverse Domain is blockchain agnostic, the communities aren't branded by a specific chain protocol, rather the BEBverse protocol itself.
+Registration of human-readable community names is a critical feature of the BEBverse Protocol, making domains have a required BEB Name, accessible by a BEBverse client through `[name].client.xyz` or `[name].beb`. Note that a BEBverse Dimension is blockchain agnostic, the communities aren't branded by a specific chain protocol, rather the BEBverse protocol itself.
 
 ## BEBverse Name Leasing
 
-To discourage community squatting, we designed BEBverse Domains to be leasable, which means they are controlled by the BEBverse Registrar. Shorter names will have a higher name mint and yearly renewal. Price is computed by an oracle, with a rate to mint, and a rate per year to lease.
+To discourage dimension squatting, we designed BEBverse Dimensions to be leasable, which means they are controlled by the BEBverse Registrar. Shorter names will have a higher name mint and yearly renewal. Price is computed by an oracle, with a rate to mint, and a rate per year to lease.

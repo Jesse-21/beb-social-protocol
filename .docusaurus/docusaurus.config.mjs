@@ -5,7 +5,7 @@
  */
 export default {
   "title": "BEBverse Protocol",
-  "tagline": "The BEBverse Protocol allows developers to build on top of metaverse communities.",
+  "tagline": "The BEBverse Protocol allows developers to build on top of metaverse communities (dimensions).",
   "url": "https://docs.beb.xyz",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
@@ -81,7 +81,7 @@ export default {
               "href": "https://beb.xyz"
             },
             {
-              "label": "Register a BEBverse Domain",
+              "label": "Register a BEBverse Dimension",
               "href": "https://beb.domains"
             },
             {

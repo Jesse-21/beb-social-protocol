@@ -16,7 +16,7 @@
       },
       {
         "type": "link",
-        "label": "The BEBverse Domain",
+        "label": "The BEBverse Dimension",
         "href": "/docs/nft",
         "docId": "nft"
       },
@@ -56,13 +56,13 @@
     "intro": {
       "id": "intro",
       "title": "Introduction",
-      "description": "BEBverse is a web3 protocol for metaverse communities capable of supporting different social applications such as metaverse land, chat rooms, social networks, forum boards, creators-fan groups, DAO toolings, etc.",
+      "description": "BEBverse is a web3 protocol for metaverse communities (dimensions) capable of supporting different social applications such as metaverse land, chat rooms, social networks, forum boards, creators-fan groups, DAO toolings, etc.",
       "sidebar": "tutorialSidebar"
     },
     "nft": {
       "id": "nft",
-      "title": "The BEBverse Domain",
-      "description": "The BEBverse Domain is of the ERC-721 standard, in order to define an interface that is sufficient for a Domain. A simplified interface is available as follows.",
+      "title": "The BEBverse Dimension",
+      "description": "The BEBverse Dimension is of the ERC-721 standard, in order to define an interface that is sufficient for a Domain. A simplified interface is available as follows.",
       "sidebar": "tutorialSidebar"
     },
     "protocol": {

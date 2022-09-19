@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "BEBverse Protocol",
   tagline:
-    "The BEBverse Protocol allows developers to build on top of metaverse communities.",
+    "The BEBverse Protocol allows developers to build on top of metaverse communities (dimensions).",
   url: "https://docs.beb.xyz",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -96,7 +96,7 @@ const config = {
                 href: "https://beb.xyz",
               },
               {
-                label: "Register a BEBverse Domain",
+                label: "Register a BEBverse Dimension",
                 href: "https://beb.domains",
               },
               {
