@@ -46,7 +46,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="We're the first web3 social protocol for metaverse communities (dimensions)."
+      description="We're the first super NFT representing communities (dimensions)."
     >
       <HomepageHeader />
       <main>
