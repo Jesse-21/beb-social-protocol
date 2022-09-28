@@ -2,7 +2,7 @@
   "unversionedId": "intro",
   "id": "intro",
   "title": "Introduction",
-  "description": "BEBverse is a super NFT for communities (dimensions) capable of supporting different social applications such as metaverse land, chat rooms, social networks, forum boards, creators-fan groups, DAO toolings, etc.",
+  "description": "BEBverse is a Super NFT for communities (dimensions) capable of supporting different social applications such as metaverse land, chat rooms, social networks, forum boards, creators-fan groups, DAO toolings, etc.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
