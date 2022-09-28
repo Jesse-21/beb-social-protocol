@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introduction
 
-BEBverse is a super NFT for communities (dimensions) capable of supporting different social applications such as metaverse land, chat rooms, social networks, forum boards, creators-fan groups, DAO toolings, etc.
+BEBverse is a Super NFT for communities (dimensions) capable of supporting different social applications such as metaverse land, chat rooms, social networks, forum boards, creators-fan groups, DAO toolings, etc.
 It is important to first understand four concepts that are at the core of any social network: permission, roles, collective, and community.
 
 ## Permission

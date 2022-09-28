@@ -46,7 +46,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="We're the first super NFT representing communities (dimensions)."
+      description="We're the first Super NFT representing communities (dimensions)."
     >
       <HomepageHeader />
       <main>
