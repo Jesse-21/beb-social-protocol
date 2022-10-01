@@ -87,10 +87,6 @@ export default {
             {
               "label": "Twitter",
               "href": "https://twitter.com/bebdotxyz"
-            },
-            {
-              "label": "Developers",
-              "href": "https://dev.beb.xyz"
             }
           ]
         }
