@@ -12,7 +12,7 @@ export default {
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
   "trailingSlash": false,
-  "organizationName": "bebdotxyz",
+  "organizationName": "bebverse",
   "projectName": "protocol",
   "i18n": {
     "defaultLocale": "en",
@@ -27,11 +27,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/robert/src/opensource/protocol/sidebars.js",
-          "editUrl": "https://github.com/bebdotxyz/protocol"
+          "editUrl": "https://github.com/bebverse/protocol"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/bebdotxyz/protocol"
+          "editUrl": "https://github.com/bebverse/protocol"
         },
         "theme": {
           "customCss": "/Users/robert/src/opensource/protocol/src/css/custom.css"
@@ -54,7 +54,7 @@ export default {
           "label": "Documentation"
         },
         {
-          "href": "https://github.com/bebdotxyz/protocol",
+          "href": "https://github.com/bebverse/protocol",
           "label": "GitHub",
           "position": "right"
         }
@@ -86,7 +86,7 @@ export default {
             },
             {
               "label": "Twitter",
-              "href": "https://twitter.com/bebdotxyz"
+              "href": "https://twitter.com/bebverse"
             }
           ]
         }

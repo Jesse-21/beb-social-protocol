@@ -18,7 +18,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "bebdotxyz", // Usually your GitHub org/user name.
+  organizationName: "bebverse", // Usually your GitHub org/user name.
   projectName: "protocol", // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -38,13 +38,13 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/bebdotxyz/protocol",
+          editUrl: "https://github.com/bebverse/protocol",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/bebdotxyz/protocol",
+          editUrl: "https://github.com/bebverse/protocol",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -70,7 +70,7 @@ const config = {
             label: "Documentation",
           },
           {
-            href: "https://github.com/bebdotxyz/protocol",
+            href: "https://github.com/bebverse/protocol",
             label: "GitHub",
             position: "right",
           },
@@ -101,7 +101,7 @@ const config = {
               },
               {
                 label: "Twitter",
-                href: "https://twitter.com/bebdotxyz",
+                href: "https://twitter.com/bebverse",
               },
             ],
           },
