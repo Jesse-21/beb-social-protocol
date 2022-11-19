@@ -6,9 +6,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "BEBverse Protocol",
+  title: "BEBverse 1.0 Protocol",
   tagline:
-    "The BEBverse Protocol allows developers to build on top of BEBverse Super NFTs (dimensions).",
+    "The BEBverse 1.0 Protocol allows developers to build on top of BEBverse Super NFTs (dimensions). In the future, BEBverse 2.0 will allow the option of self-hosting with a significantly reduced graphql set for progressive decentralization.",
   url: "https://docs.beb.xyz",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "BEBverse",
+        title: "BEBverse 1.0",
         logo: {
           alt: "Logo",
           src: "img/logo.png",

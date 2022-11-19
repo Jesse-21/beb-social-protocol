@@ -2,15 +2,17 @@
 sidebar_position: 3
 ---
 
-# The BEBverse Protocol
+# The BEBverse 1.0 Protocol
 
-We want to decentralize community operations in a permissionless fashion through the BEBverse Protocol. The core elements of the BEBverse Protocol is the Indexer.
+**FYI, we are in the process of designing the BEBverse 2.0 protocol, which is going to allow self-hosting with a significantly reduced graphql set for progressive decentralization.**
 
-## The BEBverse Indexer
+We want to decentralize communities through the BEBverse 1.0 Protocol. The core elements of the BEBverse 1.0 Protocol is the Indexer.
 
-The BEBverse Indexer (Off-chain) is responsible for the indexing of roles and community members, providing BEBverse clients data interfaces to query the data necessary to function. It interacts with decentralized block indexers such as the Graph or a hosted node to query the data necessary to arbitrage community roles, permissions, and members depending on a set of rules.
+## The BEBverse 1.0 Indexer
 
-The BEBverse indexer is self-hostable and compatible with different node providers.
+The BEBverse 1.0 Indexer (Off-chain) is responsible for the indexing of roles and community members, providing BEBverse clients data interfaces to query the data necessary to function. It interacts with decentralized block indexers such as the Graph or a hosted node to query the data necessary to arbitrage community roles, permissions, and members depending on a set of rules.
+
+The BEBverse 1.0 indexer is self-hostable and compatible with different node providers.
 
 ```js
 /** The following API methods are initially available */

@@ -14,7 +14,7 @@ Permissions allow members of a social application to have specific privileges an
 ## Roles
 
 A unique set of permission is granted to members within the same role, such as administrators. Roles can be granted on a community level and overridden on a collective level.
-On the BEBverse protocol, permission can be assigned manually or automatically based on different token indexers' rules.
+On the BEBverse 1.0 protocol, permission can be assigned manually or automatically based on different token indexers' rules.
 
 ## Collective
 
@@ -22,4 +22,4 @@ Collectives can be described as an aggregation of members. They take many shapes
 
 ## Community
 
-Communities are at the top level of the BEBverse protocol, represented as an NFT itself (NFTC). Roles on a community level govern the permission of members within it, such as administrators and subscribers. They are minted with a unique name registered on the decentralized BEBverse registry. They are transferrable and can be traded like normal NFTs.
+Communities are at the top level of the BEBverse 1.0 protocol, represented as an NFT itself (NFTC). Roles on a community level govern the permission of members within it, such as administrators and subscribers. They are minted with a unique name registered on the decentralized BEBverse registry. They are transferrable and can be traded like normal NFTs.

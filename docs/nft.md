@@ -49,7 +49,7 @@ Initially, a single controller is implemented, the `BebGenesisController`. The a
 
 ## BEBverse Names
 
-Registration of human-readable community names is a critical feature of the BEBverse Protocol, making domains have a required BEB Name, accessible by a BEBverse client through `[name].client.xyz` or `[name].beb`. Note that a BEBverse Dimension is blockchain agnostic, the communities aren't branded by a specific chain protocol, rather the BEBverse protocol itself.
+Registration of human-readable community names is a critical feature of the BEBverse 1.0 Protocol, making domains have a required BEB Name, accessible by a BEBverse client through `[name].client.xyz` or `[name].beb`. Note that a BEBverse Dimension is blockchain agnostic, the communities aren't branded by a specific chain protocol, rather the BEBverse 1.0 protocol itself.
 
 ## BEBverse Name Leasing
 

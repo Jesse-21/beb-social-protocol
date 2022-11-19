@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "BEBverse Protocol",
-  "tagline": "The BEBverse Protocol allows developers to build on top of BEBverse Super NFTs (dimensions).",
+  "title": "BEBverse 1.0 Protocol",
+  "tagline": "The BEBverse 1.0 Protocol allows developers to build on top of BEBverse Super NFTs (dimensions). In the future, BEBverse 2.0 will allow the option of self-hosting with a significantly reduced graphql set for progressive decentralization.",
   "url": "https://docs.beb.xyz",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
@@ -41,7 +41,7 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "BEBverse",
+      "title": "BEBverse 1.0",
       "logo": {
         "alt": "Logo",
         "src": "img/logo.png"

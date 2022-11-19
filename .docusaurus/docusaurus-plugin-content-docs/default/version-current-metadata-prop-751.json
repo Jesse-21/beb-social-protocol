@@ -22,7 +22,7 @@
       },
       {
         "type": "link",
-        "label": "The BEBverse Protocol",
+        "label": "The BEBverse 1.0 Protocol",
         "href": "/docs/protocol",
         "docId": "protocol"
       },
@@ -67,8 +67,8 @@
     },
     "protocol": {
       "id": "protocol",
-      "title": "The BEBverse Protocol",
-      "description": "We want to decentralize community operations in a permissionless fashion through the BEBverse Protocol. The core elements of the BEBverse Protocol is the Indexer.",
+      "title": "The BEBverse 1.0 Protocol",
+      "description": "FYI, we are in the process of designing the BEBverse 2.0 protocol, which is going to allow self-hosting with a significantly reduced graphql set for progressive decentralization.",
       "sidebar": "tutorialSidebar"
     }
   }
